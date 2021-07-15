@@ -16,13 +16,19 @@ Here are some ideas to get you started:
 ### Hi there, I'm Shubh Patel 👋🏻
 Creative web developer dedicated to developing and optimising interactive, user- friendly and feature-rich websites. Leverage analytical skills and strong attention to detail in order to deliver original and efficient web solution, provide technical knowledge and expertise, build new website from scratch, successfully manage a team of web developers and also know that how to take work from each team members.
 
+
+
 ## I'm a student at Institute of Technology, Nirma University!
 - 🔭 I am currently looking for internships in Machine Learning.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 🧑🏻‍💻 I'm an Enthusiastic, Responsible and Hard working computer person. I have deep under standing of it skills. I can easily learn any new thing and can also teach perfectly.
 - I love to play chess ♟ and volleyball 🏐
 
+
+
 ## Work Experience
+
+
 
 ### The Sparks Foundation, Singapore
 ###### Jul 1, 2021 : Present - Web Development & Designing
@@ -53,3 +59,11 @@ Creative web developer dedicated to developing and optimising interactive, user-
 ### Centre of Excellence, Binghamton University - Nirma University
 ###### Feb, 2020 : Mar, 2020 - Web Developer
 - Designed and Created responsive Centre of Excellence (CoE) National level Hackathon website using HTML, CSS, JavaScript, jQuery, AngularJS and BootStrap.
+
+
+
+## 🚀 Skills
+
+
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />  <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
