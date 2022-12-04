@@ -20,7 +20,7 @@ Creative web developer dedicated to developing and optimising interactive, user-
 
 ## I'm a student at Institute of Technology, Nirma University!
 - 🔭 I am currently looking for an internship in Machine Learning.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: To become Full-Stack Developer
 - 🧑🏻‍💻 I'm an Enthusiastic, Responsible and Hard working computer person. I have deep under standing of it skills. I can easily learn any new thing and can also teach perfectly.
 - I love to play chess ♟ and volleyball 🏐
 
